@@ -9,14 +9,14 @@ html {
 body {
   font-family: 'Open Sans', sans-serif;
   color: #0c0c0c;
-  background-color: #ffffff;
+  background: linear-gradient(to bottom, #fdfcfb, #e2d1c3);
   min-height: 100vh;
   margin: 0;
 }
 
 /* Container Utama */
 .container {
-  max-width: 80%;
+  max-width: 75%;
   margin: 0 auto;
 }
 
