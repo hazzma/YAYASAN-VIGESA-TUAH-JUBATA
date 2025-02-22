@@ -10,7 +10,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   color: #0c0c0c;
   background: linear-gradient(to bottom, #fdfcfb, #e2d1c3);
-  min-height: 100vh;
+  zoom: 0.7;
   margin: 0;
 }
 
